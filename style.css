@@ -1,0 +1,12 @@
+body {
+    background-image: url("hehe.webp");
+}
+  h3{
+    font-size: 25px !important;
+  }
+  canvas
+  {
+    margin-top: 50px;
+    border:2px dashed black;
+  }
+   
